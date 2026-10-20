@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: doiggie-invenio
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/doiggie-invenio/doiggie_invenio-${{ version }}.tar.gz
-  sha256: 361f08575871d127ba6d4fd060d3d97c4958b60ccc2fb1a8a3a8acef4eca7548
+  sha256: 9ba10f136ce09eef6dddc71dddb02d6918f1762aa26fb3091d82ec9bf9de03f1
 
 build:
   number: 0
